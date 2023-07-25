@@ -1,0 +1,50 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+            "minecraft:block_light_absorption": {
+                "value": 3
+            },
+            "minecraft:block_light_emission": {
+                "emission": 0.0
+            },
+            "minecraft:destroy_time": 3.0,
+            "minecraft:explosion_resistance": {
+                "value": 10.0
+            },
+            "minecraft:loot": {
+                "table": ""
+            },
+            "minecraft:map_color": {
+                "color": "#ffad9c"
+            },
+            "netease:fall": {
+                "adjust_percentage": 0.98,
+                "cancel_drop": false,
+                "fall_acceleration": 0.04,
+                "fall_damage_amount": 2.0,
+                "force_break_tick": 600,
+                "hurt_entity": false,
+                "max_fall_damage": 40,
+                "min_height_remove_tick": 100,
+                "send_python_event": false
+            },
+            "netease:on_stand_on": {
+                "send_python_event": true
+            },
+            "netease:solid": {
+                "value": true
+            },
+            "netease:tier": {
+                "destroy_special": true,
+                "digger": "pickaxe",
+                "level": 1
+            }
+        },
+        "description": {
+            "base_block": "custom_heavy_block",
+            "identifier": "qpvvf:R2641157210_momo_block",
+            "register_to_creative_menu": true
+        }
+    }
+}

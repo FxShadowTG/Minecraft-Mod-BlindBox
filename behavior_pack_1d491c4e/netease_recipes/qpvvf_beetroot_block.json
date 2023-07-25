@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qpvvf:beetroot_block"
+        },
+        "key": {
+            "E": {
+                "data": 0,
+                "item": "minecraft:beetroot_seeds"
+            }
+        },
+        "pattern": [
+            " E ",
+            "EEE",
+            " E "
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qpvvf:RFxShadow_beetroot_block"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

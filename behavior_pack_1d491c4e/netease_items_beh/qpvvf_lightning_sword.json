@@ -1,0 +1,23 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 1500,
+            "netease:customtips": {
+                "value": "§7来自雷电的力量，附魔很容易获得高属性"
+            },
+            "netease:weapon": {
+                "attack_damage": 20,
+                "enchantment": 135,
+                "level": 15,
+                "speed": 5,
+                "type": "sword"
+            }
+        },
+        "description": {
+            "category": "Construction",
+            "identifier": "qpvvf:lightning_sword",
+            "register_to_create_menu": true
+        }
+    }
+}

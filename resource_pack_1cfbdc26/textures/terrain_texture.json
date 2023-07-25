@@ -1,0 +1,123 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "eMOjwqBA": {
+            "textures": "textures/items/custom_apple"
+        },
+        "qpvvf:basketball_aside_block.png": {
+            "textures": "textures/blocks/basketball_aside_block.png"
+        },
+        "qpvvf:basketball_up_block": {
+            "textures": "textures/blocks/basketball_up_block"
+        },
+        "qpvvf:beetroot_block": {
+            "textures": "textures/blocks/beetroot_block"
+        },
+        "qpvvf:blindBox_block": {
+            "textures": "textures/blocks/blindBox_block"
+        },
+        "qpvvf:cbTool_block": {
+            "textures": "textures/blocks/cbTool_block"
+        },
+        "qpvvf:changeSize_block": {
+            "textures": "textures/blocks/changeSize_block"
+        },
+        "qpvvf:changeTime_block": {
+            "textures": "textures/blocks/changeTime_block"
+        },
+        "qpvvf:dead_block": {
+            "textures": "textures/blocks/dead_block"
+        },
+        "qpvvf:error_blcok_1": {
+            "textures": "textures/blocks/error_blcok_1"
+        },
+        "qpvvf:fastHand_block": {
+            "textures": "textures/blocks/fastHand_block"
+        },
+        "qpvvf:fertilizer_block": {
+            "textures": "textures/blocks/fertilizer_block"
+        },
+        "qpvvf:finder_block": {
+            "textures": "textures/blocks/finder_block"
+        },
+        "qpvvf:fu": {
+            "textures": "textures/blocks/fu"
+        },
+        "qpvvf:god_block": {
+            "textures": "textures/blocks/god_block"
+        },
+        "qpvvf:iceGhost_block": {
+            "textures": "textures/blocks/iceGhost_block"
+        },
+        "qpvvf:lightning_block": {
+            "textures": "textures/blocks/lightning_block"
+        },
+        "qpvvf:mirror2_block": {
+            "textures": "textures/blocks/mirror2_block"
+        },
+        "qpvvf:momo": {
+            "textures": "textures/blocks/momo"
+        },
+        "qpvvf:monitor_block": {
+            "textures": "textures/blocks/monitor_block"
+        },
+        "qpvvf:neteaseGod_block": {
+            "textures": "textures/blocks/neteaseGod_block"
+        },
+        "qpvvf:rainbowGlass2_block.png": {
+            "textures": "textures/blocks/rainbowGlass2_block.png"
+        },
+        "qpvvf:rainbowGlass_block": {
+            "textures": "textures/blocks/rainbowGlass_block"
+        },
+        "qpvvf:randomSapling_block": {
+            "textures": "textures/blocks/randomSapling_block"
+        },
+        "qpvvf:recruit_block": {
+            "textures": "textures/blocks/recruit_block"
+        },
+        "qpvvf:redstoneArtillery_block": {
+            "textures": "textures/blocks/redstoneArtillery_block"
+        },
+        "qpvvf:rps_block": {
+            "textures": "textures/blocks/rps_block"
+        },
+        "qpvvf:sandCircuit_block": {
+            "textures": "textures/blocks/sandCircuit_block"
+        },
+        "qpvvf:shield_block": {
+            "textures": "textures/blocks/shield_block"
+        },
+        "qpvvf:sign_block": {
+            "textures": "textures/blocks/sign_block"
+        },
+        "qpvvf:soybean_block": {
+            "textures": "textures/blocks/soybean_block"
+        },
+        "qpvvf:spawner_block": {
+            "textures": "textures/blocks/spawner_block"
+        },
+        "qpvvf:sun_block": {
+            "textures": "textures/blocks/sun_block"
+        },
+        "qpvvf:sweat_block": {
+            "textures": "textures/blocks/sweat_block"
+        },
+        "qpvvf:threeGodPillars_block": {
+            "textures": "textures/blocks/threeGodPillars_block"
+        },
+        "qpvvf:timeDay_block": {
+            "textures": "textures/blocks/timeDay_block"
+        },
+        "qpvvf:timeNight_block": {
+            "textures": "textures/blocks/timeNight_block"
+        },
+        "qpvvf:villager_error_block": {
+            "textures": "textures/blocks/villager_error_block"
+        },
+        "qpvvf:watermelon_block": {
+            "textures": "textures/blocks/watermelon_block"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

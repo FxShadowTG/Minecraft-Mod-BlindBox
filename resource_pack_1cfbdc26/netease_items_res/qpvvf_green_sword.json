@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qpvvf:green_sword"
+        },
+        "description": {
+            "category": "Construction",
+            "identifier": "qpvvf:green_sword",
+            "register_to_create_menu": true
+        }
+    }
+}

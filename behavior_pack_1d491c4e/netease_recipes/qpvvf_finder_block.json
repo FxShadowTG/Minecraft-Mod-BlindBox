@@ -1,0 +1,39 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qpvvf:finder_block"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "minecraft:empty_map"
+            },
+            "E": {
+                "data": 0,
+                "item": "minecraft:chest"
+            },
+            "F": {
+                "data": 0,
+                "item": "minecraft:ink_sac"
+            },
+            "H": {
+                "data": 0,
+                "item": "minecraft:planks"
+            }
+        },
+        "pattern": [
+            "HBH",
+            "FEF",
+            "H H"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qpvvf:B525479602_finder_block"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

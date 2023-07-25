@@ -1,0 +1,30 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qpvvf:element_sword2"
+        },
+        "key": {
+            "A": {
+                "data": 0,
+                "item": "minecraft:diamond_sword"
+            },
+            "B": {
+                "data": 0,
+                "item": "qpvvf:element_stone"
+            }
+        },
+        "pattern": [
+            "A",
+            "B"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qpvvf:red_sword"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qpvvf:momo_block"
+        },
+        "key": {
+            "E": {
+                "data": 0,
+                "item": "minecraft:pink_dye"
+            },
+            "H": {
+                "data": 0,
+                "item": "minecraft:glass_pane"
+            },
+            "I": {
+                "data": 0,
+                "item": "minecraft:glass"
+            }
+        },
+        "pattern": [
+            "IHI",
+            "HEH",
+            "IHI"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qpvvf:R2641157210_momo_block"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "qpvvf:B175755796_monitor_block": {
+        "sound": "stone",
+        "textures": "qpvvf:monitor_block"
+    },
+    "qpvvf:B20298592_basketball_block": {
+        "sound": "stone",
+        "textures": {
+            "down": "qpvvf:basketball_up_block",
+            "east": "qpvvf:basketball_aside_block.png",
+            "north": "qpvvf:basketball_aside_block.png",
+            "south": "qpvvf:basketball_aside_block.png",
+            "up": "qpvvf:basketball_up_block",
+            "west": "qpvvf:basketball_aside_block.png"
+        }
+    },
+    "qpvvf:B34127671_changeSize_block": {
+        "sound": "lantern",
+        "textures": "qpvvf:changeSize_block"
+    },
+    "qpvvf:B439895022_error2_block": {
+        "sound": "stone",
+        "textures": "qpvvf:error_blcok_1"
+    },
+    "qpvvf:B439895022_error_block": {
+        "sound": "stone",
+        "textures": "qpvvf:villager_error_block"
+    },
+    "qpvvf:B525479602_finder_block": {
+        "sound": "stone",
+        "textures": "qpvvf:finder_block"
+    },
+    "qpvvf:B76969706_blindBox_block": {
+        "sound": "metal",
+        "textures": "qpvvf:blindBox_block"
+    },
+    "qpvvf:B76969706_spawner_block": {
+        "netease_frame_effects": {
+
+        },
+        "netease_particle_effects": {
+
+        },
+        "sound": "metal",
+        "textures": "qpvvf:spawner_block"
+    },
+    "qpvvf:BD113887832_ok_block": {
+        "sound": "stone",
+        "textures": "qpvvf:soybean_block"
+    },
+    "qpvvf:BD113887832_waterOk_block": {
+        "sound": "bamboo_sapling",
+        "textures": "qpvvf:sweat_block"
+    },
+    "qpvvf:BD440378168_sun_block": {
+        "sound": "stone",
+        "textures": "qpvvf:sun_block"
+    },
+    "qpvvf:BDNone_dead_block": {
+        "sound": "slime",
+        "textures": "qpvvf:dead_block"
+    },
+    "qpvvf:BDNone_fertilizer_block": {
+        "sound": "sweet_berry_bush",
+        "textures": "qpvvf:fertilizer_block"
+    },
+    "qpvvf:BDNone_watermelon_block": {
+        "sound": "snow",
+        "textures": "qpvvf:watermelon_block"
+    },
+    "qpvvf:BNone_bless_block": {
+        "sound": "lantern",
+        "textures": "qpvvf:fu"
+    },
+    "qpvvf:BNone_iceGhost_block": {
+        "sound": "snow",
+        "textures": "qpvvf:iceGhost_block"
+    },
+    "qpvvf:BNone_lightning_block": {
+        "sound": "normal",
+        "textures": "qpvvf:lightning_block"
+    },
+    "qpvvf:BNone_recruit_block": {
+        "sound": "metal",
+        "textures": "qpvvf:recruit_block"
+    },
+    "qpvvf:BNone_rps_block": {
+        "sound": "bamboo_sapling",
+        "textures": "qpvvf:rps_block"
+    },
+    "qpvvf:BNone_sign_block": {
+        "sound": "itemframe",
+        "textures": "qpvvf:sign_block"
+    },
+    "qpvvf:BNone_threeGodPillars_block": {
+        "sound": "metal",
+        "textures": "qpvvf:threeGodPillars_block"
+    },
+    "qpvvf:DYNone_cbTool_block": {
+        "sound": "normal",
+        "textures": "qpvvf:cbTool_block"
+    },
+    "qpvvf:DYNone_redstoneArtillery_block": {
+        "sound": "anvil",
+        "textures": "qpvvf:redstoneArtillery_block"
+    },
+    "qpvvf:DYNone_timeDay_block": {
+        "sound": "lantern",
+        "textures": "qpvvf:timeDay_block"
+    },
+    "qpvvf:DYNone_timeNight_block": {
+        "sound": "lantern",
+        "textures": "qpvvf:timeNight_block"
+    },
+    "qpvvf:DYhuobaobaobao_shield_block": {
+        "sound": "metal",
+        "textures": "qpvvf:shield_block"
+    },
+    "qpvvf:KS1222355846_haste_block": {
+        "sound": "itemframe",
+        "textures": "qpvvf:fastHand_block"
+    },
+    "qpvvf:KSNone_god_block": {
+        "sound": "metal",
+        "textures": "qpvvf:god_block"
+    },
+    "qpvvf:KSNone_randomSapling_block": {
+        "sound": "sweet_berry_bush",
+        "textures": "qpvvf:randomSapling_block"
+    },
+    "qpvvf:KSNone_sandCircuit_block": {
+        "sound": "bamboo_sapling",
+        "textures": "qpvvf:sandCircuit_block"
+    },
+    "qpvvf:NEGNone_changeTime_block": {
+        "sound": "bamboo",
+        "textures": "qpvvf:changeTime_block"
+    },
+    "qpvvf:NEGNone_neg_block": {
+        "sound": "metal",
+        "textures": "qpvvf:neteaseGod_block"
+    },
+    "qpvvf:R2641157210_momo_block": {
+        "sound": "itemframe",
+        "textures": "qpvvf:momo"
+    },
+    "qpvvf:R590678453_rainbowGlass2_block": {
+        "sound": "glass",
+        "textures": "qpvvf:rainbowGlass_block"
+    },
+    "qpvvf:R590678453_rainbowGlass_block": {
+        "sound": "glass",
+        "textures": "qpvvf:rainbowGlass2_block.png"
+    },
+    "qpvvf:RFxShadow_beetroot_block": {
+        "sound": "sweet_berry_bush",
+        "textures": "qpvvf:beetroot_block"
+    },
+    "qpvvf:RNone_mirror_block": {
+        "sound": "glass",
+        "textures": "qpvvf:mirror2_block"
+    }
+}

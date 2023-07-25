@@ -1,0 +1,27 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "qpvvf:element_stone": {
+            "textures": "textures/items/element_stone"
+        },
+        "qpvvf:element_stone_fragment": {
+            "textures": "textures/items/element_stone_fragment"
+        },
+        "qpvvf:green_sword": {
+            "textures": "textures/items/weapon_04"
+        },
+        "qpvvf:identify_mirror": {
+            "textures": "textures/items/identify_mirror"
+        },
+        "qpvvf:lightning_sword": {
+            "textures": "textures/items/lightning_sword"
+        },
+        "qpvvf:red_sword": {
+            "textures": "textures/items/weapon_02"
+        },
+        "qpvvf:yellow_sword": {
+            "textures": "textures/items/weapon_03"
+        }
+    },
+    "texture_name": "atlas.items"
+}

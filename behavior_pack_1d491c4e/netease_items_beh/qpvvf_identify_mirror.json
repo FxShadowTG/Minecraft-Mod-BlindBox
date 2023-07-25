@@ -1,0 +1,15 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "netease:customtips": {
+                "value": "§7拿在手上点击方块即可查看盲盒作用"
+            }
+        },
+        "description": {
+            "category": "Construction",
+            "identifier": "qpvvf:identify_mirror",
+            "register_to_create_menu": true
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:entity": {
+        "component_groups": {
+
+        },
+        "components": {
+            "minecraft:health": {
+                "value": 1
+            },
+            "minecraft:loot": {
+                "table": "loot_tables/spawner_egg.json"
+            },
+            "minecraft:persistent": {
+
+            }
+        },
+        "description": {
+            "identifier": "qpvvf:blindbox_spawner_egg",
+            "is_experimental": false,
+            "is_summonable": true
+        },
+        "events": {
+
+        }
+    }
+}

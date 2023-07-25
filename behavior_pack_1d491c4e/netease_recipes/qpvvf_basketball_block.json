@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qpvvf:basketball_block"
+        },
+        "key": {
+            "D": {
+                "data": 14,
+                "item": "minecraft:firework_star"
+            },
+            "G": {
+                "data": 0,
+                "item": "minecraft:white_dye"
+            }
+        },
+        "pattern": [
+            "G G",
+            "GDG",
+            "G G"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qpvvf:B20298592_basketball_block"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qpvvf:element_stone"
+        },
+        "description": {
+            "category": "Construction",
+            "identifier": "qpvvf:element_stone",
+            "register_to_create_menu": true
+        }
+    }
+}

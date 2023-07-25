@@ -1,0 +1,39 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qpvvf:blindBox"
+        },
+        "key": {
+            "C": {
+                "data": 0,
+                "item": "minecraft:cobblestone"
+            },
+            "E": {
+                "data": 0,
+                "item": "minecraft:log"
+            },
+            "F": {
+                "data": 0,
+                "item": "minecraft:glass"
+            },
+            "I": {
+                "data": 0,
+                "item": "minecraft:sand"
+            }
+        },
+        "pattern": [
+            "CCC",
+            "FEF",
+            "III"
+        ],
+        "result": {
+            "count": 2,
+            "data": 0,
+            "item": "qpvvf:B76969706_blindBox_block"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

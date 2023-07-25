@@ -1,0 +1,39 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qpvvf:monitor_block"
+        },
+        "key": {
+            "C": {
+                "data": 0,
+                "item": "minecraft:prismarine_shard"
+            },
+            "D": {
+                "data": 0,
+                "item": "minecraft:nautilus_shell"
+            },
+            "F": {
+                "data": 0,
+                "item": "minecraft:observer"
+            },
+            "G": {
+                "data": 3,
+                "item": "minecraft:stone_slab2"
+            }
+        },
+        "pattern": [
+            "CCC",
+            " D ",
+            "GFG"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qpvvf:B175755796_monitor_block"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

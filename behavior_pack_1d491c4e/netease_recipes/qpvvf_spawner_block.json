@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qpvvf:spawner_block"
+        },
+        "key": {
+            "C": {
+                "data": 0,
+                "item": "minecraft:ghast_tear"
+            },
+            "E": {
+                "data": 0,
+                "item": "minecraft:stained_glass"
+            }
+        },
+        "pattern": [
+            " E ",
+            "ECE",
+            " E "
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qpvvf:B76969706_spawner_block"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
